@@ -1,5 +1,5 @@
 <?php
 
-  eccho "Razvan Adrian Pirjolea";
+  echo "Razvan Adrian Pirjolea";
 
 ?>
